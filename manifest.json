@@ -1,0 +1,12 @@
+﻿{
+  "id": "spacechase0.MarketPriceUI",
+  "name": "MarketPriceUI",
+  "description": "...",
+  "author": "spacechase0",
+  "version": "1.0.0",
+  "type": "assembly",
+  "assembly": {
+    "dll": "MarketPriceUI.dll",
+    "class": "MarketPriceUI.Mod"
+  }
+}
